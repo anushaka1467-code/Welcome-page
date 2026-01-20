@@ -1,6 +1,6 @@
 # Welcome-page
 Welcome to my github page
-#Name
+##Name
 Anusha K A
-#Internet Company Name
+##Internet Company Name
 Anusha internet cafe
